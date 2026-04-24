@@ -1,0 +1,56 @@
+// #include <stdio.h>
+
+// int main(){
+    // int marks[3];
+    // printf("Enter phy :");
+    // scanf("%d", &marks[0]);
+
+    //  printf("Enter chem :");
+    // scanf("%d", &marks[1]);
+
+    //  printf("Enter maths :");
+    // scanf("%d", &marks[2]);
+
+    // printf("phy = %d , maths = %d, chem = %d", marks[0] , marks[1] , marks[2]);
+
+//     float price[3];
+//     printf("Enter 3 price :");
+
+//     scanf("%f", &price[0]);
+//     scanf("%f", &price[1]);
+//     scanf("%f", &price[2]);
+
+//     printf("total price 1 :\n", price[0]+(0.18 * price[0]));
+//     printf("total price 1 :\n", price[1]+(0.18 * price[1]));
+//     printf("total price 1 :\n", price[2]+(0.18 * price[2]));
+
+    // int age = 22;
+    // int *ptr = &age;
+    // printf("ptr = %u \n", ptr);
+    // ptr ++;
+
+    // printf("ptr = %u \n", ptr);
+    // ptr --;
+
+    // float price = 20.00;
+    // float *ptr = &price;
+    // printf("ptr = %u \n", ptr);
+    // ptr ++;
+
+   
+    // printf("ptr = %u \n", ptr);
+    //  ptr --;
+     
+
+    // int age = 22;
+    // int _age = 23;
+    // int *ptr = &age;
+    // int *_ptr = &_age;
+
+    // printf("%u difference = %u \n", ptr -_ptr);
+
+    // _ptr = &age;
+    // printf("comprasion = %u \n",ptr == _ptr);
+
+//    return 0;
+//    }
